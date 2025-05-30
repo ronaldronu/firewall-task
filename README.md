@@ -22,7 +22,7 @@ Configure and test firewall rules to block or allow traffic using Windows Firewa
 
 ## 🖼 Screenshots
 
-All screenshots are in the `/screenshots` folder.
+All screenshots are in the png format.
 
 ---
 
